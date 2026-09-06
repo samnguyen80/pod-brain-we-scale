@@ -1,0 +1,18 @@
+{
+  "name": "wescale-pod",
+  "owner": {
+    "name": "Unofficial WeScale POD Brain"
+  },
+  "metadata": {
+    "description": "Unofficial WeScale 2026 print-on-demand brain: mockup test, design test, catalog scaling, Shopify CRO, Klaviyo flows, ad scaling bands, unit economics."
+  },
+  "plugins": [
+    {
+      "name": "wescale-pod-knowledge",
+      "source": "./plugins/wescale-pod-knowledge",
+      "version": "0.1.0",
+      "description": "WeScale 2026 POD knowledge. /pod router, /pod-diagnose, mockup + design tests, catalog scaling, CRO, email flows, ad scaling, unit economics.",
+      "category": "productivity"
+    }
+  ]
+}

@@ -9,6 +9,51 @@ Captured 2026-09-06 from the Skool classroom Sam has access to.
 > Private archive of a course Sam paid for. Not for redistribution. Numbers taught in the course are
 > the instructor's *claims* — the notes mark them as such. Not financial advice.
 
+## Skills
+
+The knowledge ships as a plugin, so the gates are runnable rather than just readable.
+
+| Command | Job |
+|---|---|
+| `/pod` | Router — which skill |
+| `/pod-diagnose` | Paste your numbers → the one failing gate → one job |
+| `/teach-wescale` | Classroom: one gate, you guess the threshold, one job |
+| `/brand-setup` | Stage 1 — store, niche, name, brand why |
+| `/design-system` | Stage 2 — research capped at 2h, 100 designs, mockup specs |
+| `/mockup-test` | Gate 1 — which photo earns the click |
+| `/design-test` | Gate 2 — which designs people want |
+| `/scale-catalog` | Gate 3 — volume until catalog-wide CPC drops under $1 |
+| `/store-cro` | Gate 4 — ATC → checkout → CR → AOV, in that order |
+| `/ad-scaling` | Trailing-7-day ROAS bands decide the budget |
+| `/email-flows` | Klaviyo popup, six core flows, campaign cadence |
+| `/unit-economics` | Pricing, margin, and why ROAS 2.0 is breakeven |
+
+Skills **Read** the notes in `knowledge/` — doctrine is not copied into the skills, so there is one
+place to correct a number. `shared/RESOLVER.md` maps each intent to the file it should open.
+
+### Install
+
+```
+/plugin marketplace add https://github.com/samnguyen80/pod-brain-we-scale.git
+/plugin install wescale-pod-knowledge@wescale-pod
+```
+
+Or for one session without installing, from any directory:
+
+```bash
+claude --plugin-dir /path/to/pod-brain-we-scale/plugins/wescale-pod-knowledge
+```
+
+The plugin reaches the vault through `plugins/wescale-pod-knowledge/knowledge`, a symlink to the
+repo-root `knowledge/`. That keeps the Obsidian vault at the top level while
+`${CLAUDE_PLUGIN_ROOT}/knowledge/` still resolves for the skills.
+
+| Ask | Expected |
+|---|---|
+| *"CPC is $2.40, should I redesign my store?"* | Routes to traffic, not the store — earlier gate fails first |
+| *"ROAS is 2.1, can I scale?"* | Yes to the gate, but names that 2.0 is ~0% margin |
+| *"Write a Python reverse-string function"* | **no** WeScale skill fires |
+
 ## The course in one screen
 
 The entire course is **one 12-hour YouTube video**, chaptered per lesson:

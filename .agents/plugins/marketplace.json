@@ -1,0 +1,11 @@
+{
+  "name": "wescale-pod",
+  "plugins": [
+    {
+      "name": "wescale-pod-knowledge",
+      "source": "./plugins/wescale-pod-knowledge",
+      "version": "0.1.0",
+      "description": "WeScale 2026 POD knowledge. /pod router, /pod-diagnose, mockup + design tests, catalog scaling, CRO, email flows, ad scaling, unit economics."
+    }
+  ]
+}
