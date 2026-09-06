@@ -1,0 +1,37 @@
+# $0-$100K Print On Demand Challenge | GOAL ACHIEVED!
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=wsNRzrV85Z4
+Published: 2023-10-21  ·  Duration: 0:07:27  ·  Views: 2,291
+
+---
+
+[00:00:00] A few weeks ago, I started a print on demand challenge to see if I can make a hundred thousand dollars in six months. At the time, this seemed like a huge task that could either be super successful or totally explode in my face, especially given all the people out there saying that print on demand is dead and oversaturated. Fast forward to today and I'm nowhere close to where I expected I'd be. Some days were really good and others were pretty rough. And I'm happy to say
+
+[00:00:27] that I've completely crushed my goal four months ahead of plan. It honestly feels crazy to say and that's why in this video I'm going to be breaking down how we got here, how much profit we actually made and our plans for the future. But before we dive in, be sure to hit the like and subscribe button if you want to see more content like this in the future. So, how do we get here? The question I'm sure everyone is asking in their head is how did
+
+[00:00:51] you do that? And I'll give you the simple breakdown. One, we made a fast site with a hundred t-shirt designs that we had uploaded to Printify. Two, we ran Facebook ads to drive traffic to the site. And number three, we kept the process simple. We weren't going to overcomplicate it. The most important factor is a fast site that makes sense. If your site is slow, people will simply leave. If your site's checkout is messed up or doesn't flow, people, guess what? Leave. If you have a
+
+[00:01:22] countdown timer everywhere and your customer feels like they're being stalked to checkout, guess what? They will leave. We use the acronym KISS, keep it simple, stupid. You don't want to be adding so many applications to your site that you're slowing down site speed and you also don't want to feel like you're bombarding your customer, just throwing different offers at them on every single page. You want to give your customer some freedom to look around and search on their own time. Having a clean site is definitely
+
+[00:01:50] the first step in having a successful print on demand business. The second thing that we did was drive traffic to the site. Without driving traffic, you probably will never get a customer. And this is where Facebook comes in. We started out with a few engagement ads to get the account warmed up, and then from there started to build out purchase campaigns. This part takes time to build up, but clearly will work. Facebook advertising gets a bad rap. A lot of people want to drive traffic organically
+
+[00:02:16] or from TikTok, which is totally fine. I'm just stating what we've done and what has worked for us. But, it's definitely something to check out. Don't be sleeping on Facebook advertising. When I was getting ready to launch my store, I had one thing in mind, and that was simplicity. In the past, I would try to scale a store and would just throw more and more to the pile thinking that I would make millions, when in reality, I was just half-assing everything. But, this time wasn't going
+
+[00:02:41] to be the same. I wasn't going to make the same mistakes that I had made before. Over the last 2 months, I have been perfecting my systems so that I can hire somebody to do the busy work and allow myself to keep scaling in other areas. I was writing the process out as I was going through and actually doing each task for the store. From getting designs uploaded onto Printify and Shopify to how to answer customer service emails. It was this, running Facebook ads, and sending
+
+[00:03:08] some email marketing campaigns that I was able to see such quick results. I was focusing on the things that I knew exactly how to do and not overcomplicating it. Running a business can be really overwhelming. So, taking each task step by step and perfecting it will help you build your skills and then be able to hire and move on to the next thing that can either increase revenue, drive new traffic, or even automate the business. Now, let's look into the financials and show that I'm not
+
+[00:03:36] full of it. From my time running this store, I have done $115,242.72 in revenue, which is great. But, what money did I actually get to keep? As you can see for the month of July, I have all of my sales, shipping, discounts, returns, all of my revenue gets added here. And in the middle, we basically take out all of our costs that we've had on the business, as well as overhead expenses, so memberships, applications, subscriptions, those types of things. We'll deduct all of that out from
+
+[00:04:10] the revenue, and whatever is left over is our net profit, so the money that we actually get to keep in our pocket. So, for the month of July, after deducting all of our costs, we have a net profit of $6,415.93, or a 20% profit margin, which is really great. And for August, we do the same thing. So, we put in all of our Shopify numbers, we get our total in revenue, we take out all of our costs, and here we're left with $7,239.62. So, for the
+
+[00:04:46] two months combined, both July and August, I'm left with $13,655.55 in total profit from those months alone. I know that doesn't sound like a lot, but assuming I didn't grow the business any more, and just made close to six or seven thousand dollars a month doing what I'm doing now, I would probably make close to $85,000 being my own boss and having my own flexibility to do what I want day in and day out. But, we aren't settling here. We're going to keep scaling and trying
+
+[00:05:20] to take this store to new levels. Also, this is not including September at all, since those numbers are not yet officially calculated. But, it is looking like we're on track to make well over last month, since our sales are up 44% over this time last month. So, as you can see, for September 1st through September 12th, change this to August 1st to August 12th, as you can see, we're up 44% over the previous month. So, this means we're looking to almost double what we've done the
+
+[00:05:52] previous month. Running the unofficial profit report with the numbers so far for September, it is saying we've already made $6,767.51 in profit. And that's not including the 5% rebate that we'll get back from Printify on our production costs. So, with that being said, we're clearly on the right track. What am I going to do now that I've already completed my challenge? Like I said before, it feels so surreal to have broken this challenge after only 2 months. To be able to have that kind of success
+
+[00:06:24] is truly insane to me. But, I'm not stopping here. It's time to double down and really push the envelope. So, I've decided that my new challenge will be to try to make $100,000 in profit by the end of my 6 months of running this store. So, that means I need to have $100,000 in my bank account by January 31st of 2024. So, doing some simple math, I need to make $86,344.45 in order to hit this goal. Comment below if you think I will be able to
+
+[00:07:01] reach this goal, and let me know what kind of business challenges you're setting for yourself to hit. If you want to follow along on my 100K profit challenge journey, please like, subscribe, and turn on notifications for new videos. And if you want to watch my first challenge video, click this video here.

@@ -162,45 +162,63 @@ const infoFor = async (id: string) => {
 const main = async () => {
   await Bun.$`mkdir -p ${CACHE} ${TRANSCRIPTS}`.quiet();
 
-  console.log("Fetching the complete channel playlist…");
-  const playlist = await runYtDlp([
-    "--flat-playlist",
-    "--print",
-    "%(id)s|||%(title)s",
-    CHANNEL_URL,
-  ], true);
-  const videos = playlist.output
-    .split(/\r?\n/)
-    .flatMap((line): Video[] => {
-      const separator = line.indexOf("|||");
-      if (separator < 0) return [];
-      const id = line.slice(0, separator).trim();
-      const title = line.slice(separator + 3).trim();
-      return /^[A-Za-z0-9_-]{11}$/.test(id) && title ? [{ id, title }] : [];
-    });
+  // SKIP_FETCH=1 rebuilds the markdown from whatever is already in .cache/ without touching the
+  // network. Use it after a throttled run has been topped up by hand, so a re-render doesn't cost
+  // another full channel pass (and another round of 429s).
+  let videos: Video[];
 
-  if (playlist.exitCode !== 0) console.error(`Playlist command exited ${playlist.exitCode}; using its returned entries.`);
-  if (videos.length < EXPECTED_MINIMUM_VIDEOS) {
-    throw new Error(`Expected at least ${EXPECTED_MINIMUM_VIDEOS} videos, but yt-dlp returned ${videos.length}. Stopping rather than archiving a partial channel.`);
+  if (process.env.SKIP_FETCH === "1") {
+    console.log("SKIP_FETCH=1 — rebuilding from the existing cache, no network calls…");
+    videos = [];
+    for (const file of new Bun.Glob("*.info.json").scanSync(CACHE)) {
+      const info = JSON.parse(await Bun.file(`${CACHE}/${file}`).text());
+      if (info?.id && info?.title) videos.push({ id: info.id, title: info.title });
+    }
+    if (videos.length < EXPECTED_MINIMUM_VIDEOS) {
+      throw new Error(`Cache holds only ${videos.length} videos, expected at least ${EXPECTED_MINIMUM_VIDEOS}. Run without SKIP_FETCH to top it up.`);
+    }
+    console.log(`Found ${videos.length} cached videos.`);
+  } else {
+    console.log("Fetching the complete channel playlist…");
+    const playlist = await runYtDlp([
+      "--flat-playlist",
+      "--print",
+      "%(id)s|||%(title)s",
+      CHANNEL_URL,
+    ], true);
+    videos = playlist.output
+      .split(/\r?\n/)
+      .flatMap((line): Video[] => {
+        const separator = line.indexOf("|||");
+        if (separator < 0) return [];
+        const id = line.slice(0, separator).trim();
+        const title = line.slice(separator + 3).trim();
+        return /^[A-Za-z0-9_-]{11}$/.test(id) && title ? [{ id, title }] : [];
+      });
+
+    if (playlist.exitCode !== 0) console.error(`Playlist command exited ${playlist.exitCode}; using its returned entries.`);
+    if (videos.length < EXPECTED_MINIMUM_VIDEOS) {
+      throw new Error(`Expected at least ${EXPECTED_MINIMUM_VIDEOS} videos, but yt-dlp returned ${videos.length}. Stopping rather than archiving a partial channel.`);
+    }
+    console.log(`Found ${videos.length} videos. Downloading captions and metadata only…`);
+
+    const download = await runYtDlp([
+      "--skip-download",
+      "--write-auto-subs",
+      "--write-subs",
+      "--sub-langs",
+      "en.*,en",
+      "--sub-format",
+      "vtt",
+      "--write-info-json",
+      "--ignore-errors",
+      "--no-abort-on-error",
+      "-o",
+      `${CACHE}/%(id)s.%(ext)s`,
+      CHANNEL_URL,
+    ]);
+    if (download.exitCode !== 0) console.error(`Caption download exited ${download.exitCode}; continuing with every VTT yt-dlp produced.`);
   }
-  console.log(`Found ${videos.length} videos. Downloading captions and metadata only…`);
-
-  const download = await runYtDlp([
-    "--skip-download",
-    "--write-auto-subs",
-    "--write-subs",
-    "--sub-langs",
-    "en.*,en",
-    "--sub-format",
-    "vtt",
-    "--write-info-json",
-    "--ignore-errors",
-    "--no-abort-on-error",
-    "-o",
-    `${CACHE}/%(id)s.%(ext)s`,
-    CHANNEL_URL,
-  ]);
-  if (download.exitCode !== 0) console.error(`Caption download exited ${download.exitCode}; continuing with every VTT yt-dlp produced.`);
 
   const vtts = await vttFilesByVideoId();
   const skipped = new Map<string, string>();

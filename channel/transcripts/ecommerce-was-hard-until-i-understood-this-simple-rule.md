@@ -1,0 +1,41 @@
+# Ecommerce Was Hard Until I Understood This Simple Rule
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=Z5kiXXSptXA
+Published: 2026-07-11  ·  Duration: 0:08:08  ·  Views: 11,624
+
+---
+
+[00:00:00] I make more money selling one product than most stores make selling 50 products. In fact, in the last 90 days, my brand has done over $2.8 million in sales, over $400,000 in net profit from selling one product, and that's t-shirts. And it's not because I'm smarter or I work harder than other people. It is one rule that almost nobody follows. By the end of this video, you'll be able to use this rule to make more from doing less. I call it the rule of one. And
+
+[00:00:31] look, this isn't just me. The biggest brands on Earth are built on this rule. So, let me show you where it proves itself because it's in one of the most unlikely places. Let's go back to 1997. Apple was about 90 days away from running out of cash. Steve Jobs had just come back to the company almost more than a decade after they pushed him out. And what he walked into was a complete and utter mess. There were printers, cameras, a dozen versions of the Macintosh that
+
+[00:00:58] nobody could tell apart. Over 350 different products all fighting over the same shrinking pile of cash. So, Jobs walked up to a whiteboard and drew a simple 2x2 grid. Two columns across the top, one said consumer, meaning regular everyday people that would be buying a computer for their home, and the other said pro, meaning like professionals or people who need real power for their work. Then he had two rows down the side. One said desktop, or the computer that sits on your desk, and the laptop,
+
+[00:01:30] the one that you carry around with you. Four boxes. That was it. Jobs wanted to make one computer for the everyday person at home, one for the everyday person on the go, one for the professional at their desk, and one for the professional on the go, and nothing else. And the reason he did it was extremely simple. Right before this, a family friend had actually asked him which Apple computer she should buy, and he couldn't even give her a straight answer. Coming from the guy who
+
+[00:02:00] founded the company, there were just too many options. And he thought, "If I can't answer that, how in the world is a regular customer supposed to?" So, he killed about 70% of the products and pointed the entire company at those four boxes. The company that became the most valuable on Earth got there by selling less, not more. Now, here's the thing. Most people building a brand today think they need to do the exact opposite. They keep adding, and then they wonder why nothing ever takes off,
+
+[00:02:31] nothing ever gets traction. So, here's my rule that I call the rule of one. You go narrow on purpose. You pick one product. You pick one niche. Sell to one audience on one platform. So, you pick one of each, and you stop touching the rest. And I need you to really hear why this matters, because this is the part that everybody seems to miss. Going narrow isn't about doing less. It is about finally being able to focus on what actually matters in those areas. So, instead
+
+[00:03:02] of spreading yourself so thin that you're mediocre at all of those, you finally get to go deep and think about what that focus buys you. When you sell one product, you get to master one product. You learn its margins cold. You know why it gets returned. And you get a little bit better at the same thing every single day. When you speak to one audience, they feel it. Because a shirt that is meant to speak to everybody ends up speaking to no one. But a shirt
+
+[00:03:28] made for a specific person, that person sees themselves in it. And when you sell on one platform, you actually learn that platform instead of being average on five platforms. That's the whole point. Narrow isn't a sacrifice. Narrow is what lets you go deep, and deep is where the money is. So, let me help make this concrete. Picture two different sellers. Both make 100 designs in 6 months. Seller A does nothing but t-shirts. Seller B does the smart thing, and they make 20 t-shirt designs, 20 mug
+
+[00:03:59] designs, 20 hoodie designs, 20 tote bag designs, 20 phone case designs. It's the same work spread across five different products. 6 months in, Seller B has dabbled in those five things and gotten good at none. Because a great mug and a great t-shirt are two completely different designs. They're different problems. Every time they switch, they are essentially starting over. Seller A, on the other hand, spent 6 months on one problem. And now they can look at a design and feel whether it is going to be
+
+[00:04:30] a hit before it ever goes live, because they know what makes a good design. That's not luck. That's skill. And skill only compounds when you stay in one place. That is what the add more products crowd will never tell you. Skill compounds inside one product. It does not compound across five. Steve Jobs saw that. Now I know exactly what you're thinking. If I only sell one product on one platform in one niche, doesn't that box me in? Don't my ideas just dry up? Doesn't that limit
+
+[00:04:57] me? And honestly, yes, it does limit you. It stops your focus from scattering off into 10 different directions. But that's the whole point. Because narrowing everything else down is exactly what frees you up to go wide in the one place that actually matters. And that's the designs that you put on that one product. That is where I go completely wide. Because I focus, my design skills have compounded. I have gotten so good at designing for one product, for one audience, that we are not making two
+
+[00:05:29] or three designs and just crossing our fingers. Instead, we are pushing out as many designs as we possibly can. And let me share a statistic that I think will blow your mind. On my brand, I have over 1,900 designs that are live. And in the last 90 days alone, 19 of them drove more than half of the $2.8 million in sales. 19 total designs. And here's the part that I really want you to get. We never would have found those 19 designs if we hadn't gone
+
+[00:05:59] that wide. Testing design after design after design is the only way that they end up surfacing. At the end of the day, it really is a numbers game. The more quality designs that you put out on that one product, the better your odds are are hitting the handful that will end up carrying the entire brand. So, no, you do not need to be in all these different products. You don't need to keep adding more and more thinking that that's going to be the thing that finally
+
+[00:06:25] scales your business. You scale by focusing down and going wide in the one place that counts. And that's exactly what I've done. I like to think about it like mining for gold. Most people will take one swing in one hole, not hit anything, and then go dig somewhere else. You end up with five shallow holes and no gold. The ones who actually strike it pick one hole and they keep swinging until that gold shows up. Your one product is the hole. Every design is another swing
+
+[00:06:53] of the pick. So, look, if you're spread across a bunch of different products right now on your brand and wondering why nothing's working, hear me out. You're not behind. You're not short on talent. You were just never handed the rule of one. You actually don't have a product problem, you have a focus problem. And honestly, that's the best news that you'll get today because focus is free. You can fix it tonight without spending a dollar. Pick one product and get really good at it. Push as
+
+[00:07:22] many designs out as you possibly can and let the numbers do the work. One product, one niche, one platform, and one sales channel. That's the rule of one. That is how you make more money from less. If you want to learn how we started our brand using the rule of one, then definitely check out my free 12-hour course right here on YouTube that's linked in the description below. I break it all down step-by-step for you. And if you're looking for more brand building information and videos
+
+[00:07:50] like this, then please like and subscribe to my channel. It would absolutely mean the world to me. Other than that, guys, thanks for watching and I'll see you in the next video.

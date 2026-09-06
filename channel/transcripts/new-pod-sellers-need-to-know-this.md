@@ -1,0 +1,45 @@
+# New POD Sellers Need to Know This
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=SOkSqfcqFHk
+Published: 2024-08-17  ·  Duration: 0:09:12  ·  Views: 208
+
+---
+
+[00:00:00] have you been interested in ever starting your own business or maybe even attempting a side Hustle YouTube and the internet have both helped and I also think hurt people that are in that position there's so much information out there which is great it's probably never been an easier time to start a business or start a side Hustle but there are also so many different opinions out there from creators all over the planet that I think so many get stuck with analysis paral is even I would
+
+[00:00:28] watch some of these videos and I wouldn't know should I do day trading should I do Drop Shipping but I want to do print on demand or maybe I should start my own marketing agency honestly there's content like this all over the Internet and when we're getting all those different opinions how do you decide what would be the best fit for you and instead of doing anything we decide we're just going to do nothing hi guys my name is Meg Heckman and I have been selling
+
+[00:01:00] print on demand for the last 4 and 1/2 years this past year alone I started and scaled my latest brand to over $1.2 million in sales after years of trial and error I have learned a ton so in this video I'm going to be giving four pieces of advice to beginner Meg if she were just starting out and maybe you're in the same position you're not sure what side hustle or what business you should start and hopefully some of this advice is helpful to you the
+
+[00:01:30] first piece of advice that I would give myself as a firsttime seller would be you're never going to have all of the answers so don't let not knowing stop you from starting this one is a lot easier for me to say now having run my own business at this point and honestly I guess all this advice will be like that with all the opinions and people saying you should do this you should do that you should do this they are preaching their shoulds instead of saying
+
+[00:01:58] from my experience this is what worked for me and I think the shoulds confuse a lot of people and it makes them think they're never going to find the answers even now I don't feel like I know all of the answers but something that I am confident in is that any issues that have arised and have happened within my business I've been able to solve them and Tackle them and yes at the beginning I think it is really scary when you don't know those ansers aners
+
+[00:02:29] but honestly everything that's happened I've been able to handle so I don't think we should be letting the fear of not knowing everything scare us from never starting so that would be advice number one the second piece of advice that I would give myself would be tackling each step of the process one step at a time when you are starting something new something that you don't know exactly how to do I think we get overwhelmed with everything we can read all these business books and we
+
+[00:03:00] can listen to all these podcasts and we can watch all of these videos and everybody's giving their advice on what they think would be the best approach to business I think you just have to tackle things one step at a time and what I mean by that is let's say you want to get started in print on demand I think our brains go should I do Etsy should I do Shopify should I do t-shirts should I sell mugs what kind of design should I do which
+
+[00:03:26] KNE should I pick how do I get an LLC how do I get a business savings account I think our brains get so flustered with the amount of decisions that we have to make that instead of just sitting down and putting all of our time and effort into one step of the process tackling that and then moving on to the next we just will do a little bit of everything and it feels like we're doing a lot but then when you step back and look at
+
+[00:03:50] it you're like I've I'm in the same position I've done nothing so I think tackling everything one step at a time is really important starting with going out and getting your LLC going and then setting up your business banking and then picking a niche and then picking a product so going down these different streets and staying on that street and not veering off not trying to take shortcuts I think that is something that it takes a lot of new entrepreneurs a long time to figure out
+
+[00:04:21] and honestly it took me a really long time to figure out but I think if you break it down into little small tangible chunks you're going to see your progress so much faster than somebody who is just overwhelmed and trying to do a little bit of everything the third piece of advice that I would give baby Meg would be look up to those who have actually done it who have improved it and have grown their businesses more than anyone else honestly at this point like I
+
+[00:04:48] look at ilila and Alex Hermos they are the entrepreneurs that I look up to at this point in my business and that's because they're actually do doing it they are creating content from the position of I have done this I've been successful in business business is my main job now my content is really just trying to help and educate others and honestly that's how I feel I am not here on YouTube to try and just get clickbait and people to click and watch a ton of
+
+[00:05:20] my videos honestly if you've looked at my channel it's really not that big but I look up to them because they're the ones that are actually doing it and I think that's something that's important for others who are just starting out and watching all of the business talk that is on YouTube and the podcast really do your due diligence and look into the resumés that these entrepreneurs have have they done it what did they grow to are they still in that business or did they call
+
+[00:05:49] it quits because they found something better that's working for them I honestly think that piece of advice alone could really save a ton of time and really help that analysis paralysis that a lot of people have really find people who are doing what you want to do and I think naturally you're going to have a way easier time than people who are watching a whole bunch of stuff and just getting more and more confused and finally the fourth piece of advice that I would give myself
+
+[00:06:19] if I were starting out again would honestly be keep it simple a lot of times and I guess this is similar to advice number two tackling each step at a time but now that I've been in it for 4 and 1/2 years I know the main things to focus on and I have to put my blinders on sometimes and I have to tell myself we're not going down that Avenue we're not ready for Tik Tok shop yet so don't even look at it because it's a
+
+[00:06:42] shiny object stay focused and right now my goals as a print on demand seller is seven new designs uploaded to my site every single day because I know that it takes one Design One Design to really scale your print on Dem man business especially on Shopify and I'm on Shopify so that's what I'm doing I'm going to be uploading seven different designs every single day to my store so that I can just keep finding winners within my Niche and by doing that alone I should be
+
+[00:07:13] able to grow my business even more from the 1.2 million that I did this past year and my goal is to hit 2 million in sales this year those are the kind of goals that I have and I'm keeping it simple I am not going to overthink the process I'm going to take it step by step add those designs put them into my ads and then look at the data and see what the data is telling me I am absolutely keeping it simple and I think
+
+[00:07:39] if most people keep it simple like that they're going to see a ton of success and keeping it simple can even be just staying with one product if you want to sell t-shirts just sell t-shirts if you want to sell mugs you probably can just sell mugs but it's when we have our Focus split that's where a problem start to happen and we've seen this with members of our school Community where they want to have multiple different products which sometimes can work out really nicely but
+
+[00:08:09] a lot of times it just ends up splitting Focus so I'm going to keep it simple I would advise others to keep it simple it's so easy to look back and say if I could redo it all with this advice my journey would have been so much smoother but Having learned all of this now has transformed my approach to business especially with print on demand if you found this video helpful and you're looking to take the leap I highly suggest checking out my free school Community
+
+[00:08:37] there you will find my 21-hour print on demand course free downloads as well as thousands of other highly motivated individuals that want to start their own print on demand businesses just go to www.school.com Heckman for more information if you've enjoyed this video please like And subscribe to my channel so I can help more individuals like you you trying to get started in print on demand thanks [Music]

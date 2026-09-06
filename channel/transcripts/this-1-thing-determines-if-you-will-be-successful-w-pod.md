@@ -1,0 +1,47 @@
+# This 1 Thing Determines If You Will Be Successful w/ POD
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=-6509QC3PxA
+Published: 2024-08-15  ·  Duration: 0:10:02  ·  Views: 818
+
+---
+
+[00:00:00] would you believe me if I told you that this one thing could take your sales from this to this hi guys my name is Meg Heckman and I've been selling print on demand for the last 4 and a half years and in this video I'm sharing the One Singular factor that can easily take your store from no sales to well over $10,000 a month in sales no it's not a new ad strategy or even an SEO hack it's actually one design yes one design can simply
+
+[00:00:31] take your store from crickets to scaling to the Moon it really is that simple but if it truly is that simple why have so many people never gotten a single sale and honestly we can think of it like this have you ever seen this illustration as you can see the minor is digging and digging you can tell he's been digging for a really long time he has been putting in work he's been putting in the effort and he doesn't know it but the gold and the
+
+[00:01:04] gems and The Jewels it's all right there it's right on the other side of the wall but he's turned around because he's tired he has tried he is dug and dug and he has decided he's put his hands up and said I've had enough I've worked so hard this clearly cannot work for me I honestly think that's what most people do with print on demand or really starting a business in general they put in a lot of of the foundation a lot of the work they
+
+[00:01:31] throw their store up try to run some traffic to it and just nothing happens and instead of trying to figure out exactly why people aren't clicking their ad or why people aren't checking out on their site they simply say I put in so much work I tried so hard I put money into this and I'm not seeing results it must not work for me most people will take a solid stab at print on demand and then after some time and effort they'll get get annoyed that
+
+[00:02:00] they haven't seen any results and then walk away from it forever but really the Diamonds the gold the gems they're right there and they just need one more design so in this video I'm going to break down the three-step process that I use to help find that one design that changes it all so let's get into it the first step in finding winning designs is really knowing your Niche and what I mean by knowing your Niche is knowing like what your Niche actually wants what they
+
+[00:02:32] like this is something that we saw on History te's we really knew our Niche because our business partner was a total history buff and really loved history he would read history textbooks he knew the ins and outs of History so when we got into the history Niche we weren't just simply scratching the surface we were digging deep we were keeping things broad so we were hitting people of the general public but at the same same time some of our designs were so specific to the thing
+
+[00:03:04] that happened in history that only people who were big history Buffs actually understood the design and that just helped explode the brand because people looked at it as wow this person started this store and clearly they love history as much as I do and they felt that history teas was a brand that was designed just for them I think a lot of times people will get into print on demand and they'll try to find one of the really popular niches even though they may not know
+
+[00:03:33] that much about that Niche and in the end I think it's sometimes hurts your brand because if you're just scratching the surface or you're not quite sure if the joke that's on the shirt is actually funny you could be hitting or missing huge parts of your Niche so when I tell new people who are starting out that are looking for their Niche I tell them to look at things that they actually enjoy and things that they do in their life that would make them fit within
+
+[00:04:03] that Niche so if you love sports a sport Niche may be great for you but if you're somebody who's never played a sport in your life picking a sports Niche probably isn't the best choice for you so I would think really long and hard and I would put some more time into researching The Niche that you actually want to go with to make sure that you're able to hit a bunch of different avatars within that that Niche this first step is really important but if you
+
+[00:04:33] aren't following steps two and three you're going to have a really hard time finding and creating that one design that is going to sell for you so the second step in this process would be market research and yes you did some market research when you were looking for your Niche but now we're going to dig a little bit deeper and we want to see what kind of products and what kind of designs are already selling in the niche that you selected by no means am I
+
+[00:05:02] saying to go out find designs copy it and then paste it on your store that's not what I'm saying whatsoever and I highly recommend not doing that because it'll end up just biting you in the butt we don't want to be copy catters we want to be original we want to be unique that's what's going to help our designs really stand out but we can get some really great ideas by looking at what's already selling within our Niche and we can write down the different topics
+
+[00:05:28] that these designs are hitting are they mostly typography that'll tell us most of our designs could probably go the typography route or are they funny sarcastic do they have jokes related to them are they mostly design focused do they use watercolor or go for more of a comic kind of style this is all part of the research that you want to be doing to then help you tailor your designs and by gathering hundreds of ideas that are out there already within the niche we can plug
+
+[00:06:02] those ideas into chaty PT and have chaty PT do the hard work of coming up with different designs that we can try to create and hopefully pop off within our Niche now steps one in step two they're nothing new or out of the ordinary I would say most people who are within the print on demand space are saying this it's important to know your Niche and it's also really important to do a deep dive of market research and see what's out there and already selling within
+
+[00:06:31] your Niche but if you're only doing those two things and you're skipping out on this third step you going to have a really hard time finding that one design that takes your store from this to this so finally step three you need to make at least 100 designs based off of the research of your Niche and this is so that you're giving your store the best chance of having a winning design right off the bat or at least enough for research in ad testing so the
+
+[00:07:04] way that I approach print on demand I get hundreds of designs I put them on a store and then I run an Advantage Plus campaign this way it's testing every single Design Within my store without me really having to do any of the hard work and from looking at all of that data I'm able to see what people in the niche are clicking and liking the most this is really important because then I can take that information back to the drawing board so I can create
+
+[00:07:32] new designs based off of that data so that hopefully more people are then clicking on my ad getting to my site and hopefully purchasing now I know 100 designs sounds like a lot and honestly it is it takes a lot of time but you're giving your store a larger percentage chance of finding something finding anything even if it's four or or five designs that are getting clicks that is enough research to then go back to the drawing board keep creating new designs putting them within ads
+
+[00:08:07] and you will watch sales start to come in it really is such an important step so many people out there will think they have enough to launch with maybe 20 designs and yeah maybe you do maybe you're a total genius within your Niche and it may only take 20 designs but from teaching thousands of people how to start print on demand we have seen time and time again you really do need at least 100 designs to find four or five potential winners to then go back
+
+[00:08:39] to the drawing board print on demand is by no means easy it really does take a lot of time and focus especially in the beginning when you're starting and setting up your store but after 4 and 1 half years of selling T-shirts with the print on demand model I can honestly say that it really was one design that got my store off of the ground and really got the ball rolling if you've tried print on demand comment below and let me know how many designs it
+
+[00:09:08] took you to start seeing results and if this is new information for you comment below and let me know your thoughts on getting a 100 designs before starting and if you're interested in starting a print OnDemand brand go to www.school.com Heckman in our school Community we host our free 21-hour course where we teach you absolutely everything with getting started in print on demand as well as a ton of free downloads for you to use in getting started and thousands of community members who just like you
+
+[00:09:39] are trying to start a print on demand brand and if you enjoyed this video please like And subscribe to my channel so I can help others that are trying to get started in print on demand thanks for watching [Music] oh

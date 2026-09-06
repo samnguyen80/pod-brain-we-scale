@@ -1,0 +1,45 @@
+# How to Create Print on Demand Products on Printify
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=AlWuGLjPTkA
+Published: 2024-06-08  ·  Duration: 0:09:20  ·  Views: 408
+
+---
+
+[00:00:00] I have sold over 100,000 t-shirts over the last 5 years from using the print on demand model. And over those last 5 years, I've learned a ton about printers. And my favorite printer of all time is Printify. And over the last 5 years, I've learned tons of tips and tricks for using Printify. And [music] today, we're going to go through how to create your own products using Printify. If you've watched some of my other videos in this series, I've talked about setting up your Printify account,
+
+[00:00:30] finding products and printers, [music] as well as going through some of the different branding tips that I've done to help turn my print on demand business into a legitimate brand that I've later sold down the line. And today, we're going to talk about how to actually create products that you can easily sell on your print on demand store. Now, I have always sold t-shirts. They have been my top seller for the past five years. They make up about 95% of what I sell on my current
+
+[00:00:59] two brands that I run. The other products that I sell are hoodies, crew necks, and tank tops, but none of them out compete the good old classic t-shirt. In my previous video, I talked about using a Gilden 64000 shirt that's been my best seller for the last 3 years. It's almost as soft as a Bella Canvas, which I think is top-of-the-line for t-shirt quality, but is a little bit more boxy than a Bella Canva, but not as boxy as a Gilden 5000. I like to think
+
+[00:01:29] of it as a sweet medium. In my previous video, I talked about how I love Monster Digital because they are clear and concise with their pricing. They offer amazing colors, fast shipping, and a very quick turnaround with printing and getting your order out the door. So, in this video, we're going to be using Monster Digital and we're going to create a t-shirt that we can then upload to our Shopify store. So, once you navigate to Printify, you're going to click start designing. Okay. So, now that
+
+[00:01:58] we are in the editor, this is where all the fun starts. The first thing that I like to do is actually I like to upload my graphic. And that then gives me a better idea of the colors that I should be selecting for my store. So, if you navigate over to the left side of the screen, you are going to click upload. And I'm going to upload from my device. Okay. So, now that I have my t-shirt graphic nice and uploaded, I am going to just
+
+[00:02:26] make sure that my print area is nice and big and fills up a good majority of the t-shirt. Now, I don't want my t-shirt size to be huge, but I want the print to be big enough because in my advertising, I show a nice big graphic on my mockup. So, the last thing I want is for a customer to have the expectation of it's going to be a pretty large print to receiving the t-shirt and the print being super small. So, in order to do this,
+
+[00:02:54] I like to, you know, keep my graphic within my frame, and I just like to kind of play around until it's a size that I think somebody would be like pretty happy with. So, this looks nice and big. It's a very nice and colorful design that I made with a new AI software called Mystic Print on Demand. It's pretty great with some of the graphics that it's able to spit out. And then if I wanted to, I could even add text within the Printify editor area.
+
+[00:03:25] So I could, you know, pick a different text and add that to my design. But for the case of this video, I'm just going to leave it the plain graphic of this really pretty hummingbird. Now, you can click preview and get an idea of what this shirt's going to look like. Nothing's going to be on the back. Pretty good size-wise. And I like the height of where the wings end up. Sometimes you'll see like people will put their print down too low and then customers will
+
+[00:03:55] complain that like the graphic is over their belly, more of like over their chest. But I like how the wings are up nice and high. I don't think we would get many, you know, customer service complaints. Now, the last thing that we can do is add more colors. So, if we go to the top right hand side and click edit, we can get more variants or other colors that we would want to have to sell this shirt. And this just helps people kind of get a
+
+[00:04:24] better idea of like whether they'd actually want to buy this shirt or not. If you have more colors that kind of speak to [music] somebody, the tropical blue is pretty. Sapphire, I mean, they have a ton of colors to choose from. Um, and so once you've gone through and selected the colors that you'd like to have your design on, you can then click save product. Product's going to save and then you're going to get a congratulations. You know, you've created your first product. Woohoo. But now
+
+[00:04:54] it sends us back to our dashboard. As you can see, $0. We haven't sold anything. We haven't taken a single order and we have zero products that have been [music] published. So, what we're going to want to do is actually go to our products. And [music] here is where we can edit like the name and give, you know, our t-shirt kind of like its own identity. Now, you can go ahead and add your own description if you would like. This is a great place to add
+
+[00:05:22] it. You can also add a nice sizing table to your description right here by clicking add a size table. Depending on how you sell where you sell your t-shirt, you can change how you like the sizing to show up, whether you want it in inches or centimeters. Now, we want to give our t-shirt a nice title. I like to keep t-shirt in the title, but I'm just going to call this rainbow hummingbird. There we go. Rainbow hummingbird t-shirt. [music] Now, I'm not going to go and
+
+[00:05:51] change anything on the description. Personally, I like to fix my description on the Shopify side of things. Not that Printify doesn't make it easy for you, but I like to bulkedit all of my descriptions together in Shopify, but this is a great place if you're planning on using Etsy. You can throw your description in there. Um, and they also provide an area with tags, which the tags might not be showing up because I never selected where I would have this published to. But the last thing
+
+[00:06:20] that I like to do before I publish [music] a new design to my store, which I would come down here and click publish, I like to make sure that my pricing is all in order. Now, this can be bulked edited on the back end of Shopify. I believe it can also be edited on the back end of Etsy as well, but just for me just makes it easier and I can kind of get an idea for the profit margin that I'm going to have because I
+
+[00:06:43] do have other costs besides just the shipping and, you know, producing this t-shirt. But what I'm going to do is I price out my small through extra large because as you can see all of these shirts cost the same production wise plus shipping. So what I'm actually going to do here is edit this price and I will put something in like 26.99. I will apply it and then as you can see the pricing all changes. So, $26.99. It's going to show the amount of profit that
+
+[00:07:19] we would make per t-shirt. Um, as well as giving you a nice idea profit margin. So, around 64%. Which is great. It's right in the area that I like to be. We'll uncclick these because now we are going to do the 2XL. We'll scroll back up, edit the price, and type in $27.99. We'll double check that. Yep, that worked out nicely. And then the last one we'll do is a 3XL because that's the most expensive size that you're going to have with Monster Digital. And we'll
+
+[00:08:00] charge $29.99 for a 3XL. So, all of the pricing is now done. And the last thing that you would do is just scroll down and you would click publish. [music] Now, if you attached this to a Shopify store or to an Etsy store, it would then publish and you would go to Shopify or go to Etsy and you would see that your design shows up. And you would see that with these mo these different mockup images. Now, Printify has gotten really good at giving different mockups
+
+[00:08:26] over the years, like these people wearing your t-shirt. So, you can definitely upload this. Personally, I like to make my own mockup on Canva, throw my design on it, and then upload that on the Shopify back end and as well as Etsy. But again, it's completely up to you. Printify has really made things easy for designing as well as uploading to your store, providing these beautiful mockup images as well as diving into AI on their design side. still needs a little bit of work in my
+
+[00:08:58] opinion, but it's great if you're somebody who just wants to play around and kind of get a feel for using Printify as a provider. But if you enjoyed this video, please like, comment, and let me know what printer you prefer to print with and what are some of your tricks when designing and creating products for Printify.

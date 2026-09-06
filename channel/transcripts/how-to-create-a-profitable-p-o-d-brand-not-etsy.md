@@ -1,0 +1,41 @@
+# How to Create a Profitable P.O.D BRAND (NOT Etsy)
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=IPypPlWuR7g
+Published: 2024-06-01  ·  Duration: 0:07:59  ·  Views: 496
+
+---
+
+[00:00:00] when people say print on demand I don't think they think print on demand stores can actually become a true branded business but it absolutely can in fact I actually just sold one of my print on demand stores to another company so you can actually turn a print on demand store into a legitimate branded business it doesn't have to just be a side hustle my name is Meg Heckman and I've been running print on demand stores for the past 5 years and over those past 5 years
+
+[00:00:29] I've worked with a bunch of printers from PRL to gelato to even a printer kind of in my hometown I've worked with a bunch but time and time again I find myself coming back to printify and in recent years I've decided to stay with printify because they have the best pricing they have the best printers and the best customer service that you could possibly ask for when looking for a print on demand company in this video I'm going to show you how I brand my stores
+
+[00:00:57] and how you can do the same and potentially turn something you thought was a side hustle into an actual business to later sell down the line I've put a link in the description below so that if you want to get started with printify you absolutely can in my last video I showed you how to set up a brand new printify store from all the settings on the back end to talking about a little bit about printify premium and now we're going to talk about branding PRI
+
+[00:01:23] makes it really easy to add these little extra touches to your store and to truly make make it unique so what you're going to want to do is click this branding icon on the left hand side as you can see they give you a few different options of how you can brand your store some include package inserts others neck labels as well as gift messages now gift messages are only available on Etsy you're not able to yet connect that for a Shopify store so we won't
+
+[00:01:55] worry about this what we're going to talk about first are the package inserts and the neck labels a package insert is basically a little postcard that you send to your customer with either a discount code to come back and shop again or just simply thanking them for their order and maybe giving them some of your social media handle so that they can follow you I like to add this just with like my logo I think it adds a nice little Personal Touch that people aren't necessarily
+
+[00:02:21] expecting even if you buy something sometimes from like American Eagle or abomi or even Target they don't come with these like little branded package inserts most of the time you just get a receipt so I think this is a nice little surprise and can definitely help your small business while starting out and getting that brand recognition that everybody wants in order to do this you do have to be a PR ify premium member and they make it super easy you would just click this button here
+
+[00:02:49] and simply upload your photo that you can make on canva or on saying anything that you really wanted to say to your customers you just clop that on to to a postcard and it will get shipped with your t-shirts or mugs depending on whatever print provider that you choose now not all print providers do have the package inserts so in order to make sure that you can have package inserts just make sure that your printer does offer this option I personally print all of my t-shirts
+
+[00:03:20] with Monster Digital and they do these package inserts so just make sure you're looking at that prior to setting this up the other way that I add some branding to my print on demand stores is by adding neck labels as you can see you can add either like a little saying or even your logo as well as the washing instructions the size all that it's just a nice way to make it not seem like it was a print on demand product makes it seems like you
+
+[00:03:46] put in the time that you got all of these shirts or tank tops whatever it may be youve got them all ahead of time with your logo on it and every time that customer picks up that shirt they're going to see your logo and probably remember how much they love that shirt and want to come back to your site and buy more and more adding this neck label is just a nice little touch that I think all of your customers can enjoy now this is considered
+
+[00:04:07] another print area it's available on all stores which is great it does cost a little bit to add this since it is a second print area believe it's 75 cents per shirt so just make sure that you're factoring that into your cost but these are two really simple things that I do in order to Brand my store now now the last thing that can be super helpful if you are a brand new seller in the print on demand space is setting up printify connect now this
+
+[00:04:37] isn't in The Branding section this is actually going to be in the store settings so if you click Store settings and click printify connect we talked about this in my other video you need to have printify premium in order to set up printify connect printify connect saves you Time by managing and letting your customers report any issues directly to Printery support team so it takes you out from being the customer service manager now again if printify can't handle whatever issue your customer is having like if
+
+[00:05:05] they ordered the wrong size for themselves or they just didn't like the fit of it PRI is not going to be able to help in that area but if a print was damaged or they sent the wrong color whatever it may be that's something that printify customer service is able to handle and take that little bit off of your plate and off of yourself now the reason I'm putting this in my branding video for printify is because of the fact you can put in all of
+
+[00:05:30] the information from your brand and from your store so that your customers don't have any idea that they're actually talking to a printify customer service agent and not talking to yourself as a customer service agent as you can see this is what one of those emails looks like goes out to the customer asking did you enjoy everything if not then they can submit an issue as you can see here they can say like I had a problem with whatever was delivered for whatever reason reason and
+
+[00:05:58] depending on if printify is able to help your customer out or not they will either be able to send a refund or a reprint to your customer taking care of them for you this is a great way to just be able to focus on other areas of your business and let the customer service stuff off to the side for a little bit now not everybody is going to love and enjoy this I have a hard time with letting go of some of my responsibilities but one
+
+[00:06:29] thing that I was very happy to give up early on was actually my customer support you can go into printify connect you can brand all of these emails and totally take your business to the next level because you won't be worried about figuring out what to do for customer support and if printify isn't able to help your customer out they will send you an email and you can then follow up with your customer and make sure you are making things right with them so that they
+
+[00:06:55] come back and Shop time and time again because that's the beauty of building a brand you're not trying to build a one-time t-shirt sale you're trying to build a relationship with your customer that makes them want to come back to your store and buy time and time again because one you put out great designs but two you also have a great mission statement and a great message behind your brand that your customers in your Niche can resonate with so if you've been sitting there thinking there's
+
+[00:07:21] no way a print on demand store can become a real business you're absolutely wrong you can and by doing these simple little branding tricks that printify is able to help you with you absolutely can turn your simple little side hustle into a huge brand to eventually sell if you enjoyed this video please click the like And subscribe button and if you're interested in learning how to create products with printify then check out my next video here [Music]

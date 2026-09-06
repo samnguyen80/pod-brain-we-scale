@@ -1,0 +1,39 @@
+# How to Design Print on Demand T-Shirts That ACTUALLY Sell
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=S5bRxU2mMRc
+Published: 2024-06-29  ·  Duration: 0:07:23  ·  Views: 1,593
+
+---
+
+[00:00:00] take a look at these two designs which do you think would sell better in a print on demand store if you're having a hard time deciding there's no need to stress finding and creating high quality designs is a lot harder than you may think hi guys my name is Meg and I'm a print on demand expert that has done over a million dollar in Revenue this year alone and in this video I will be going over my formula for researching finding and making high quality designs
+
+[00:00:27] that actually sell if all of this is new to you and you aren't sure where to begin then you definitely want to check out mine and Chris heckman's free Ecom School Community by clicking the link below in our description in our community we offer our free 21-hour plus course which will take you step by step through everything that you need to do in order to get started in print on demand it has over 50 step-by-step videos from setting up your Shopify store to creating designs and
+
+[00:00:52] products selling on social media and tons of free resources that you can use to make your PR on demand Journey easier again just click the link in the description below to get started this formula can be broken down into four easy steps and the first part of the formula is your Niche or a specialized segment of the market for a particular kind of product or service this is like a category that a customer could fall into based on their likes and interests I like to pick
+
+[00:01:21] niches based on categories I like and actually know a lot about for example I'm a nurse and I also love to ski and I love to exercise the these are all areas that I enjoy and I would say that I know a lot about therefore I could build an actual brand around them and be able to communicate well with a community because I'm actually a part of that Community now it also is important to look at the size of your Niche going broad gives you a
+
+[00:01:46] larger audience size and more designs you can add to your site now step two is similar to step one and that's creating avatars I next sit down and think of three to four potential Avatar customers to help me find different angles of the niche for example let's take nursing since I'm a nurse and we're going to create three avatars so the first avatar that I'm going to create is we'll name her Tina she is a night shift nurse and works on a med surge floor likes
+
+[00:02:14] the slower speed of the night shift and specializes in surgical patients now Avatar 2 is George he is one of the few males in the profession and is an ICU nurse and and brings the muscles when it comes to helping with patients and number three we're going to name her Anna Anna is a dayshift nurse she loves the chaos of the day shift she typically Works in oncology and she's going to get her Masters to become a nurse practitioner so these are three avatars that I've
+
+[00:02:48] created to come up with as potential customers for my Niche and so now that we have them we can actually look at the different angles that are a part of the niche of Nursing so some of the different angles that we can attack are the department that nurses work in is it an ER nurse a med surge nurse do you work in a doctor's office what kind of designs can we make around that what kind of shift do you like to work is it more night
+
+[00:03:11] shift more day shift how can we make shirts around the shift that nurses like to work third would be gender are most of the shirts that are out there for nurses female because of the fact that it's a more female heavy profession or is targeting males going to be a smarter move for maybe some of our t-shirt designs maybe there's not enough out there for men that are nurses to really want to buy and purchase those shirts four we're going to be talking about higher education
+
+[00:03:38] could we talk about like nurse practitioners or nurse researchers nurse Educators there's a lot of higher degrees that nurses can go after and attain so can we make some shirts or some designs around maybe getting your nurse practitioner license the fifth thing that we can talk about are medications a lot of medications happen with nursing so are there some medications that we can poke fun at or maybe make a joke about I think that this could go really well I tend to see a lot of
+
+[00:04:06] this on different social media accounts so medications and how they relate to nursing could potentially be a good area of the nich to focus on and lastly specializations could we make shirts for nurses that typically work just in oncology or nurses that just work in surgery how about o nurses ER nurses ICU there are tons of different specializations that you you can get into as nurses so can we attack those different specializations and come up with specific designs for them so after thinking of all these
+
+[00:04:36] different avatars and looking at the different areas of the niche that brings us to step three of our formula which is existence and that's simply seeing what's already out there in this Niche we can look at social media accounts that are already made what are they focusing on do they take more of a humor type of approach are they more serious do they have any t-shirts that they are typically selling what current t-shirt designs are being sold or mug designs being sold we can look at
+
+[00:05:04] Etsy Google Pinterest and even Amazon to get an idea of what is already selling in this Niche and can I get any ideas from that and basically come up with my own designs to then sell another question that I like to ask myself is how many sales and reviews do these designs have so if there's already designs out there within this Niche are they getting hundreds or thousands of reviews or are they maybe getting one or two looking at the reviews and the number of sales
+
+[00:05:32] will definitely help you to determine whether this is a good Niche to approach or should we go back to the drawing board and dig a Little Deeper maybe look for a niche that's more broad that we can attack these are definitely questions that are going through my mind as I'm searching online for different designs the last thing that we want to do is spend a lot of time creating designs getting a store ready to go launching it and then crickets so this is definitely not a
+
+[00:05:58] step that you want to skip this is this is probably the step that you want to spend the most time on really researching and trying to find some different designs across the entire Niche that kind of stand out to anybody in that Niche so there's actually three different ways that we can approach creating design we can make them ourselves with the use of canva which I typically like to use Photoshop or any other editor really the second way that we can get these designs rolling is
+
+[00:06:24] actually going out and hiring a designer from upwork or from Fiverr to make the designs for us a really cost-effective way of getting designs for cheap is looking for designers that work outside of the United States they tend to be a lot cheaper and can save you some money in the long run and the third thing that we can do is we can utilize AI to help create these designs for us so we can use things like Mystic print on demand or mid journey to help
+
+[00:06:49] create these designs and get them out to the public sooner rather than later now I'll be making designs in a whole other video but if you enjoyed this and you're looking for more tips on getting started in print on demand then check out our free school Community by clicking the link below again it's absolutely free to anybody that wants to join thanks for watching and see you in the next video [Music]

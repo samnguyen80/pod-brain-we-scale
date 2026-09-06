@@ -1,0 +1,41 @@
+# STOP This - Run a PROFITABLE Shopify Store in 2023 - FREE DOWNLOAD
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=kH4L3LIY3cs
+Published: 2023-04-08  ·  Duration: 0:07:54  ·  Views: 200
+
+---
+
+[00:00:00] are you thinking of starting a business or do you already have a business but your finances seem all over the place well stick around this video is for you and to help those of you that need some organization or some help in keeping your finances in track for those of you that don't know me my name is Megan Haynes and I am an e-commerce entrepreneur I never thought that I would ever be in front of a camera giving any kind of Storytelling on my journey as
+
+[00:00:27] a business owner I started out my career out of college as a bedside nurse and I worked as a bedside nurse full-time for three years before leaving and doing my e-commerce business full-time so now I truly want to help viewers like you who are maybe thinking about running your own business starting to run your own business or maybe you've been in business for a little while and hopefully I can give some valuable information that will truly help you at the end of the day so today
+
+[00:00:54] I'm going to talk to you about the five different documents that I used in Google Sheets to to really keep my financials in track and under control and it's an easy way for me to visually see how well my business is doing if you want to lick the link in the description below I have a link to my website that will take you to these five different documents that I use and you can download them for free yes for free I am not charging anything for
+
+[00:01:22] these documents it is truly there on my site to help you navigate either starting your business or getting your financials under control so let's dive into it the first document that I'm going to talk to you about today is a balance sheet so a balance sheet is basically just saying how much cash do you truly have within your business so it's taking all the money that's coming in and then subtracting out all the expenses and boom leaving you with a number that could be positive or
+
+[00:01:55] negative depending on how you're running your business but that's going to give you your exact cash flow so the amount of cash that you truly have in your business at that point of time the beauty of a balance sheet is that you can be running it daily you can be running it weekly monthly yearly whatever it is you can be running it I like to run a balance sheet at least once a week that just gives me a really good eye on my finances and catching
+
+[00:02:20] things early on if something seems to be off and spending more money than it should it just allows me to keep a very close eye on my business's overall health probably the most important document that you could use the business balance sheet the second Financial document that I'm going to talk about is an expenses sheet this is basically just taking what are truly your monthly expenses and putting them down into an Excel sheet so I typically at the end of the month will go through my
+
+[00:02:49] credit card statements and I will look at what my different subscriptions are what I have been paying and visualize those expenses it's really important because as a business owner you add applications you take applications out sometimes you forget to cancel one and it's just good to sit down at the end of the month and look through all of those expenses and make necessary Cuts so on things that you're not using or things that aren't important to your business anymore you shouldn't just be throwing money down
+
+[00:03:19] the drain you should keep a really close tab on it and clean up those expenses at the end of the month so it's a nice way to visualize it that's probably my second most important document that I use the third Financial document that I like to use is a monthly profit report I basically break down what my expenses were I add in my credit card rewards I just do a general breakdown of the month and that gives me my profit margin and the amount of money
+
+[00:03:49] that I've made in profit that month that is really nice it's not always a hundred percent accurate though so I do suggest having an accountant and a bookkeeper as well well which you don't need right off the bat but they are really really helpful and can give you the best financial advice that you need but I do run that monthly profit report as a general idea of how much I made that month so the fourth document that I'm going to talk about today is a daily
+
+[00:04:17] sales report so this is really helpful if you're somebody who is running ads for your business it allows you to see exactly how your advertising accounts are doing and if your ads are running at a profitable or not profitable margin that day so it's just really easy to do you can wake up first thing in the morning grab all of those analytics from your different advertising accounts and look at the health of your ad account are things green across the board are they within the range
+
+[00:04:46] that you want them to be if so beautiful you don't need to make any changes or if you're seeing great patterns over and over again keep doing what you're doing because it's working but if you're noticing it's dipping into the yellow dipping into the red you can then make changes to the ad account to make them profitable and change Those ads and get different customers to your site so it's just a really nice way to not only keep track of whether you're spending money the correct
+
+[00:05:13] way within those ad accounts but it just gives you a view of your ad account's Health the last Financial document that I'm going to talk about is an official p l or an official profit and loss sheet this is really important if you are somebody who is running your business and planning to eventually sell it down the road some people get into business and that's their goal they don't want to run a brand for years and years and years they'd rather build a brand to a
+
+[00:05:39] certain point and then hopefully sell it down the line a p l is really great because if you are going to sell it whoever is going to buy it from you wants to see at least a year or more of history from your business and this is just an easy way at the end of the month to put all your numbers in and just keep track of that P L sometimes you don't even plan on selling your business but if you already have the p l
+
+[00:06:04] it just makes your life so much easier you don't have to go back and go digging through documents digging through statements pulling out numbers from months or years ago it's just a really nice way to keep your business organized and you can also see how it's growing over the course of a year again these are the five documents that I use I've made them myself and I have perfected them over the years but they are really truly helpful you should definitely be running financials on your
+
+[00:06:30] business if you're not you're probably losing money from somewhere that you don't even realize or it's you know it's just risky it's Risky Business not running those financials so click the description below head over to my website where you can download these documents for free please please please use them if you do need any kind of financial advice please find a bookkeeper find an accountant find the correct resources for your accounting me but this is what I use to give me a general idea of the
+
+[00:07:02] health of my business and I hope that you are able to use them for your business learn from them and you know continue to grow and flourish if you have any questions about how I use these documents or how to keep track of your finances while running your business any questions at all please comment below I will absolutely make sure that I am responding to them and if you enjoyed this video if you wouldn't mind please hit like And subscribe to my channel that way I
+
+[00:07:30] can continue making videos like this for viewers like you guys I really hope that you found this video helpful and let me know of you know other video ideas that you're looking for in other areas of your business that maybe need some help thanks for watching foreign

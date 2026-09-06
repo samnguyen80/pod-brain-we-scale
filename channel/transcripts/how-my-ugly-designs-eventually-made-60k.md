@@ -1,0 +1,31 @@
+# How My Ugly Designs Eventually Made $60K
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=itXtw37L_c0
+Published: 2026-06-20  ·  Duration: 0:05:59  ·  Views: 5,324
+
+---
+
+[00:00:00] My first print on demand design was ugly. I pulled inspiration from this and somehow made this. You do not need to be a design expert to see that this is a terrible design. But if your first designs look like this, too, you might actually be on the right track. If I judged myself off of that first terrible design, I would have never stuck with print on demand long enough to find a design like this for my brand Sloth Hiking Club that has generated over $60,000 in
+
+[00:00:27] sales in the last 90 days alone. And the difference between both of these designs wasn't talent, it was the repetitions that I took in making designs. So, in this video, I'm going to show you why your first ugly designs are not a sign to quit. They're how you get good. And there are actually three reasons for that. Reason number one is that ugly designs prove that you started. Your first design is not supposed to prove that you're talented. It is supposed to prove that you took
+
+[00:00:57] the first breath or the first step. And that matters because most people never even get there. They stay in research mode. They keep watching videos. They keep saving ideas. They keep waiting until they feel ready. But you do not get good by waiting. You get good by making something, putting it out into the world, and learning from what happens. I want you to think about the first time you ever drove a car. You probably did not feel natural. I certainly did not. You were probably tense.
+
+[00:01:27] You were probably overthinking everything. You didn't know how hard to press the gas or how hard to hit the brakes. You felt like everyone else on the road knew what they were doing and you were the only one who didn't. But that did not mean that you were bad at driving. It meant that you were new to driving. Print on demand is the same. Your first design feels awkward because you are awkward. That's not a character flaw. That's just your first repetition. Now, the second reason
+
+[00:01:52] why your ugly designs actually help you get better at print on demand is that they show you what you do not know yet. This is why bad designs are actually useful because they expose the gap between what you thought would work and what buyers actually respond to. When I look at my first design now, I can see all of the problems immediately and you can probably see some of the problems yourself. The customer was not clear. There was no particular niche that I was talking to.
+
+[00:02:20] The layout is awkward. The design is not something someone would want to probably wear. There's no negative space. But I could not see all of that at the beginning. I had to make these bad versions of designs before I could understand what actually made them bad. That's how skills work. You make something, you look at the result and then you ask yourself, "Why did this flop? What's off here? Is the idea too generic? Is the phrase on the shirt too confusing? Is the design hard to
+
+[00:02:50] read? Is it funny but not viable? Is it something that I would like but my customer would maybe ignore?" That is the value of ugly designs. It gives you something to learn from. And then, when you compare that to the sloth hiking club design that's generated over $60,000, the difference is obvious. The customer is clear. It is somebody who enjoys the outdoors. The emotion is clear. It's funny because no one would ever think that Bigfoot should be blowing on a dandelion because all of the photos
+
+[00:03:20] that people catch of Bigfoot are these kind of sketchy, creepy looking pictures. It's almost like a complete opposite and that's what makes the shirt work. The joke fits the niche and the design feels like something a real person would actually buy and want to wear. But I did not get there by thinking harder. I got there from taking more reps. Reason number three why your ugly designs actually help you get better at print on demand, is that those reps turn ugly into instinct and this is
+
+[00:03:51] the part that most beginners miss. You do not become good at print on demand by trying to make one perfect design. You become good at taking enough intentional repetitions, and you start seeing patterns. You start noticing which phrases people would actually wear. You start noticing which jokes sound funny in your head, but don't work on a shirt. You start noticing which designs are too generic, and you start noticing which ideas are too complicated for a t-shirt design. All of that becomes your buyer instinct, and buyer
+
+[00:04:24] instinct is not something that you were born with. You earn it by learning about your customer. That's why I think every beginner should start with 100 intentional designs. Not 100 random designs or 100 lazy uploads, but 100 repetitions inside one clear niche. Because the goal is not to make 100 perfect designs. The goal is to become the kind of person who can recognize a good one. So, if your first designs are really ugly like mine, you started. Now, do not make the mistake of turning that
+
+[00:04:57] one rep into your identity. Don't say, "I'm bad at this. This isn't going to work." Say, "I am new at this." Then, take your next repetition. Because your first ugly designs are not proof that you should quit. They are the beginning of the skill that builds the foundation. And if you're interested in learning how we research and create designs like this one from Sloth Hiking Club that's done over $60,000 in the last 90 days, then click the link in the description below or wait till the
+
+[00:05:24] next video because it's going to be my completely free 12-hour print on demand course that'll take you step by step through every single process that we've done to take Sloth Hiking Club from zero to over seven figures in sales. If you enjoyed this video and you're looking for more print on demand videos like this, please like and subscribe to my channel. It would absolutely mean in world to me. Other than that, guys, thanks for watching and I'll see you in the next video.

@@ -38,8 +38,28 @@ Full lesson table with timestamps: [`course/curriculum.md`](course/curriculum.md
 | [`course/curriculum.md`](course/curriculum.md) | Every lesson: timestamp, transcript, note |
 | [`course/lessons/`](course/lessons/) | Per-lesson metadata + the resources attached to it |
 | [`transcripts/`](transcripts/) | Raw transcript, one file per chapter, timestamped |
+| [`channel/index.md`](channel/index.md) | Meg Heckman's whole YouTube channel — 200 videos, 540k words |
+| [`channel/transcripts/`](channel/transcripts/) | One transcript per channel video |
 | [`resources/all-lesson-links.md`](resources/all-lesson-links.md) | 42 unique resource links, deduped |
 | [`resources/sheets/`](resources/sheets/) | The V3 Course Resources spreadsheet — 9 tabs as CSV + markdown |
+
+The channel archive overlaps the course by exactly one file: the 12-hour master video is on the
+channel too, so it appears in `channel/transcripts/` as a single unsplit file as well as in
+`transcripts/` as 25 chapters. The chaptered version is the one to read. The duplicate is left in
+place deliberately — `channel/` is generated output, and hand-editing it would be undone by the
+next rebuild.
+
+## Rebuilding the channel archive
+
+```bash
+bun scripts/fetch-channel.ts                # full pass: list channel, download captions, render
+SKIP_FETCH=1 bun scripts/fetch-channel.ts   # re-render from .cache/ only, no network
+```
+
+YouTube throttles hard on a 200-video caption pass — expect `HTTP 429` and an incomplete first run.
+Top up the stragglers with a targeted `yt-dlp` call, then re-render with `SKIP_FETCH=1` rather than
+paying for another full pass. A video reported as "caption-less" after a throttled run usually
+isn't; check with `yt-dlp --list-subs` before believing it.
 
 ## How the pieces relate
 

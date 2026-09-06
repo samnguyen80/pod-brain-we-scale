@@ -1,0 +1,43 @@
+# How I Made $1,932 in 24 Hours (Etsy Sellers Can't Copy This)
+
+Channel: Meg Heckman (@itsmegheckman)
+Video: https://www.youtube.com/watch?v=9Jo2U3VvKQQ
+Published: 2025-04-26  ·  Duration: 0:08:24  ·  Views: 3,167
+
+---
+
+[00:00:00] I made $1,937.36 in 24 hours selling print ondemand t-shirts. And no, this wasn't some viral product or design. Absolutely no trend hacking and definitely not an Etsy listing. Hey guys, my name is Meg Hecman and I have been selling print on demand on Shopify for the last 5 years. Over that time, I have generated over $7 million in sales. Now, over the last 18 months, I have been focused on a single niche Shopify store selling t-shirts. And what we're going to cover in this video has
+
+[00:00:31] nothing to do about some random lucky day or just some fluke. In this video, I'm going to tell you exactly what happened and share exactly what made this day so profitable so that you can implement the exact same strategy for your own Shopify brand or even get you to make the push to switch from a marketplace like Etsy to a standalone brand on Shopify. So, let's get into it. So, what actually happened? All of this actually occurred on April 11th, and I did $5,629 in total
+
+[00:01:00] sales and profited over $1,900. And it all came from one single email. Not a flow, not an automation, just one well-timed, intentional sales campaign. And I'll break down exactly what it said and why it worked at the end of this video. For now, let's talk about why this matters. If you've been following along my journey, you know that I use Facebook ads to drive traffic to my store. And yes, those ads are definitely profitable. But here's the truth. Ads bring customers. Emails bring the profitability. When
+
+[00:01:32] we are paying for traffic, every new customer comes with a cost. If you're like me, you may be spending 20 to 30% of our overall cost just to get somebody through the door. But with email, we've already paid for that traffic. Once that customer is on our list, every follow-up, every sales campaign pretty much costs us nothing. That means the profit margins skyrocket. So, instead of a 10 to 20% profit margin like I'd normally see with just my paid ads, on a day that I send
+
+[00:02:00] a really good sales email, I can be close to a 40 to 50% profit margin. And why? Because the only thing that I'm paying for at that point is the cost of goods. The rest just goes to profit. This is the power of building a brand. And it's not just about making one sale. It's about nurturing those customers so they continue to come back. This is something that Etsy sellers can't do, Amazon sellers can't do, and drop shippers, most of them, aren't even thinking this far
+
+[00:02:29] ahead. Their stores are built for the short-term flips. Mine is built like an asset, a brand that continues to grow over time. And this one single email that I sent out went to over 40,000 customers. 40,000 people that I can market to again and again without spending an extra dollar to reach them. So now that we know why email is so important, we can now talk about how powerful email can be. There are different types of campaigns and flows that we can have set up on
+
+[00:02:58] our store. Flows are running automatically in the background of our store. So depending on what customers are doing, they're sometimes triggering these flows and these emails are automatically being sent to these customers versus our manual campaigns are more of coming up with a sales idea. So this could be a weekend sale or a holiday sale that maybe we're planning. And so these emails are not automated. We just give them a little nudge and push them out to a larger number of people. Now, of course, I
+
+[00:03:28] have automated email flows running all the time. I have welcome sequences, abandoned cart reminders, post purchase flows. All of these are running in the background and they're helping me build my brand because of the fact these emails help to nurture our customers. So, it's telling them about our brand. It's telling them about the company that we are and what we stand for and what they can expect from us time and time again. But on this day, the $1,900 in profit came from one manual sales campaign.
+
+[00:03:57] And this is a great example of how powerful a simple, well-timed campaign can be, especially when we control our own customer list. Now, if you want access to every single email template that I use, including the automations that run daily on my store, they are available to you right now. All that you need to do is click the link in the description below, join my free school community, and grab the email template pack. They are built to be copy and paste. Just throw them into your
+
+[00:04:26] Clavio. And they've been proven and designed specifically for Shopify print ondemand sellers. So, if all that sounds interesting to you, definitely click the link in the description below. join the free school community so that you can grab those email templates and completely speed up getting your emails up and running on your brand. Now, let's talk about how I write these proven driven emails. Let me break down the structure that I use in almost every single manual email campaign because the structure is what makes this work.
+
+[00:04:54] Now, the first thing that I like to concentrate on is the reason. We need to have a clear reason to be emailing and reaching out to our audience. This could be a restock if you're somebody who's not doing print on demand. It could be a seasonal drop, a new design, or a new collection. In this case, on April 11th, I did a 24-hour opportunity. So, it builds context and makes the email feel timely and not random. The second thing that I like to include in my
+
+[00:05:21] email campaigns is a reward. So, I like to give the customer something that they can act on. So, in this case, it was a chance to get their order refunded, but this could be anywhere from early access to a surprise bonus launch or even a bundle of designs that typically they wouldn't be able to get. The key is that it feels like a win for the buyer. They're getting something that they just wouldn't get any other day if they hadn't clicked on this email. And the
+
+[00:05:50] last thing that I like to add in every email campaign is a restriction. So this is the time sensitivity or limitation that drives urgency and gets the customer to act. So whether it's a deadline or a limited stock or an exclusive window that they have to shop, this is what nudges the customer to take action now. This simple formula consistently performs well because it aligns with the buyer psychology. It's clear motivation, perceived value, real urgency. And just because you've stayed this far in the video, I'm
+
+[00:06:20] going to show you the exact email that I sent using this framework. So, as you can see on this email, it's pretty simple. There's not a ton of text. We have a big header at the top. You would put your logo there. I've of course, you know, made this generic for everybody to completely understand, but this is the exact email that went out. So, if you're looking at the email, you can see that we had the logo right at the top of the email. Below that,
+
+[00:06:46] we have 24-hour order lottery. And then we said, "We are giving a 100% refund to three random orders placed in the next 24 hours." So there was your urgency. This is what gets customers to act. And the important part of this is that one, it's only being run for 24 hours. Two, we didn't even have any sales campaign. So it wasn't like we were giving 20% away to everybody. That means even more margin in our pocket. And lastly, it gets people excited about the offer because
+
+[00:07:17] it's like everybody loves thinking about winning the lottery. Like you dream about it. You're like, "If I won the lottery, I would get a Lamborghini or whatever it may be." Like you get excited, you start thinking about it. And we gave our customers the exact same feeling in our email campaign. Right below that, we had try your luck as a call to action button. And then we put six of our bestselling designs on this email. So, it gets people to find our bestselling designs. It kind
+
+[00:07:43] of clicks with them. It catches their eye. And simply just shop now. There wasn't a lot to it. It's really that simple. No discount, just urgency, curiosity, and a little surprise for our customers. So, if you want to grab the full email template pack, plus every flow that I run in the background daily, click the link in the description below and join my free school community. And if you found this helpful, hit that subscribe button. I've got a lot more coming your way. Thanks for watching.
+
+[00:08:14] [Music]
