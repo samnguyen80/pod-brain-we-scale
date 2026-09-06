@@ -25,8 +25,23 @@ The reference account shows flows generating $87K against campaigns' $45K — ab
 email revenue from automation `(claimed)`. Flows run once and keep paying; campaigns cost time every
 week. Build the automated sequences first.
 
-The core three are welcome, abandoned cart, and post-purchase, with templates supplied by the
-course. Sunset handles list hygiene.
+Six core flows, each with its Klaviyo trigger:
+
+| Flow | Trigger |
+|---|---|
+| Welcome (6 emails) | popup signup |
+| Abandoned checkout | checkout started |
+| Abandoned cart | add to cart |
+| Browse abandonment | viewed product |
+| Site abandonment | active on site |
+| Sunset | unengaged-120 segment, 5-day delay, re-engages on any open |
+
+Post-purchase, birthday, VIP and winback are the *advanced* tier, deliberately held back until
+$10,000 in sales — before that the list is too thin for them to fire meaningfully.
+
+The popup itself: 8-second delay, two-step (email, then confirm), excluded from /cart and /checkout
+so it never interrupts someone already buying. Campaigns default to the Engaged-90 segment; the
+full list gets used only for BFCM.
 
 ## Campaign rhythm
 

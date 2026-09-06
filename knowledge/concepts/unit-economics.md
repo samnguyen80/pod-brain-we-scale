@@ -32,8 +32,21 @@ fights conversion; raising basket size doesn't.
 Free shipping over $74.99, flat ~$4.87 below it. The threshold is set deliberately above a
 two-shirt order to pull toward three.
 
-Watch the Printify default: per-item shipping escalates sharply on 2+ items (~$4.77 → ~$7.15-7.30+).
-Left unfixed it silently taxes exactly the multi-item orders the whole strategy is trying to create.
+## The shipping profile bug
+
+The single most expensive misconfiguration in the course, and it is silent.
+
+Any product left sitting on Shopify's auto-created "Printify" shipping profile passes Printify's
+real shipping cost (~$12+) straight through to the customer at checkout. The customer sees a $30
+shirt with $12 shipping and leaves. Nothing in the admin flags it. The instructor puts the cost of
+learning this at $3,000 `(claimed)`.
+
+Fix: move every product onto the "General" profile, set free shipping above $74.99, flat ~$4.89
+below it. Re-check after every bulk upload — new products can land back on the Printify profile.
+
+Related and smaller, but the same shape: Printify's per-item rate escalates on 2+ items
+(~$4.77 → ~$7.15-7.30+), which taxes exactly the multi-item orders the AOV strategy is built to
+create.
 
 ## ROAS is a margin statement
 

@@ -44,6 +44,21 @@ exists so Meta's optimiser gets a clean signal; interfering resets what you paid
 Expect ~3 rounds to clear the mockup gate. Sellers who report 10+ rounds are usually not genuinely
 varying the mockup between rounds `(claimed)`.
 
+## Reading a failed round
+
+The result tells you *which* variable is broken, and how far back to restart:
+
+| Cost per link click | Diagnosis | Next round |
+|---|---|---|
+| under $1.00 | winner | advance a rung |
+| $1.00 – $1.50 | near miss, mockup problem | iterate on the near-winner, add a few fresh |
+| $3 – $5 | the design is the problem, not the photo | new designs |
+| over $5 | both are wrong | start fresh — mockups and designs |
+
+On the design test, iterate by swapping the *concept*, not the font or the colour. A recoloured
+loser is the same test run twice. The recommended next batch is a 50/50 split: iterations on
+proven winners, and fresh research.
+
 ## Where it can mislead
 
 The ladder assumes cheap clicks predict sales. It mostly does at this price point, but a cheap
