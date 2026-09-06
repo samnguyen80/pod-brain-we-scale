@@ -1,0 +1,50 @@
+# 📚Overview
+
+Source: Copy of WeScale V3 Course Resources (Google Sheets) · 46 rows
+
+- The ULTIMATE Print on Demand Guide for 2026
+- Watch This First 👉 HOW TO USE THIS SPREADSHEET
+- 🎯 PURPOSE
+- Your complete roadmap from $0 to profitable print-on-demand brand in 5 stages.
+- 📋 THE 5 STAGES (Complete in Order)
+- 1️⃣ BRAND — Launch store & validate your niche (2-4 hours)
+- 2️⃣ DESIGN — Research market & create 100 designs with AI (15-20 hours)
+- 3️⃣ STORE — Upload products & optimize for conversions (20-25 hours)
+- 4️⃣ MARKETING — Launch Facebook ads & email marketing (5-8 hours)
+- 5️⃣ SCALE — Grow revenue with data-driven optimization (Ongoing)
+- ✅ 3-STEP WORKFLOW
+- STEP 1: Review "Resources" sheet → Bookmark the tools you'll need
+- STEP 2: Start "1 Brand" sheet → Check off each task as you complete it
+- STEP 3: Work through stages 1→2→3→4→5 (Don't skip ahead!)
+- 💡 HOW TO USE EACH STAGE SHEET
+- ✅ Column A: — Check the box when task is complete
+- ⏱️ Column C: — Time estimate for planning your work sessions
+- 📝 Column D: — Add personal notes (store URL, brand name, decisions, etc.)
+- EXAMPLE: ✅ | Sign up for Build My POD | 5 min | DONE! Store: mystore.com
+- 🔑 KEY SHEETS
+- 📊 Overview — Guide on how to use this spreadsheet
+- 🔗 Resources — All tools, GPTs, and links you'll need
+- 1️⃣ Brand — Launch your store (START HERE)
+- 2️⃣ Design — Create 100 designs with AI
+- 3️⃣ Store — Upload & optimize products
+- 4️⃣ Marketing — Drive traffic & make sales
+- 5️⃣ Scale — Grow to consistent revenue
+- ❓ FAQ — 50+ answered questions (search with Ctrl+F)
+- ⚡ QUICK TIPS
+- ✓ Block time on your calendar using the time estimates
+- ✓ Add hyperlinks in Personal Notes (store URL, FB ads, design folder)
+- ✓ Check FAQ before asking questions (saves time!)
+- ✓ Complete each stage fully before moving to the next
+- ✓ Track your progress: Store live date, first sale, monthly revenue
+- 🆘 STUCK? GET HELP
+- 1. Check the FAQ sheet (50+ questions answered)
+- 2. Use V3 Course GPT (in Resources sheet)
+- 3. Post in WeScale community
+- 4. Review the related course module
+- 📌 REMEMBER
+- • Action > Perfection (Done is better than perfect!)
+- • Complete stages in order (Each builds on the last)
+- • Use checkboxes to track progress (Visual motivation!)
+- • Add notes for future reference (You'll thank yourself later)
+- ✨ READY TO START?
+- Go to "1: Brand" sheet → Check your first box → Let's build! 🚀

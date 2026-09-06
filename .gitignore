@@ -1,0 +1,6 @@
+# raw yt-dlp output (vtt + info.json) — the markdown in channel/ is the artifact
+.cache/
+
+node_modules/
+.DS_Store
+*.log

@@ -1,0 +1,58 @@
+# 🛠️ Resources
+
+Source: Copy of WeScale V3 Course Resources (Google Sheets) · 54 rows
+
+- WeScale Resources Full List
+- NAME — CATEGORY — LINK — PURPOSE — COST
+- V3 Course GPT — AI Tool — V3 Course GPT — Answer any question you have for the V3 course — Free
+- Build My POD AI — Setup Tool — buildmypod.ai — Automated Shopify + Printify store setup — Free
+- WeScale Optimization Calculator — Calculator — https://learn.wescale.ai/store-profitability-calculator — Plug in your numbers to see the #1 opportunity
+- WeScale Brand Builder GPT — AI Tool — Brand Builder GPT — Niche validation + brand naming + logo creation — Free (with community)
+- Brand Guide — Template — Brand Guide — Template for your brand — Free
+- WeScale Design and Research GPT — AI Tool — Design & Research GPT — Market research + design analysis — Free (with community)
+- WeScale Design GPT — AI Tool — DesignGPT — Generate production-ready POD designs — Free (with community)
+- WeScale Design Gem — AI Tool — WeScale Design GEM — Bulk design generation — Free (with Gemini account)
+- WeScale Mockup Gem — AI Tool — WeScale Mockup Gem — Create compelling product mockups — Free (with Gemini account)
+- Email Marketing Brain GPT — AI Tool — Email Marketing Brain GPT — Rewrite email copy for your brand — Free (with community)
+- Good vs Bad Design Guide — Educational Resource — Good vs Bad Designs — Visual design quality reference — Free (with community)
+- Bulk Editing Guide — Educational Resource — Bulk Editing Your Products in Shopify — Using Hextom Bulk Product Edit & Sync
+- Product Description Guide — Template — Product Description Template — Product description templates — Free (with community)
+- Email Flow Templates — Templates — Email Templates — Welcome + Abandoned Cart + Post-Purchase — Free (with community)
+- Meta Ad Templates — Templates — Ad Templates — 50 different ad templates — Free (with community)
+- Mockup Color Match
+- Comfort Colors 1717 — T-shirt information — Comfort Colors — Color matching for Comfort Colors Tees — Free
+- Gildan 64000 — T-shirt information — Gildan 64000 — Color matching for Gildan 64000 Tees — Free
+- Bella + Canvas 3001 — T-shirt information — Bella + Canvas 3001 — Color matching for Bella + Canvas 3001 Tees — Free
+- Size Chart Canva File — Template — Size Chart template — Size chart template for product page — Free
+- Icon/logo templates
+- Favicon — Template — Favicon Template — Favicon template for website — Free
+- Logo — Template — Logo Template — logo template for brand & website — Free
+- Logo + Name — Template — Logo + Name Template — logo + brand name for website — Free
+- Homepage Desktop Image — Template — Homepage Desktop Template — homepage desktop banner — Free
+- Homepage Mobile Image — Template — Homepage Mobile Template — homepage mobile banner — Free
+- Collection Cover — Template — Collection Cover Template — collection cover image — Free
+- Shop Policy Templates — Template — Policy Templates — policy pages — Free
+- Scaling Scorecard — Spreadsheet — Scaling Scorecard — Spreadsheet to track your #1 opportunity — Free
+- Other Tools Used
+- NAME — CATEGORY — LINK — PURPOSE — COST
+- Canva — Design Tool — canva.com — Design cleanup + mockups + graphics — Freemium (Pro needed for background removal)
+- Google Gemini — AI Platform — gemini.google.com — AI image generation + design prompts — Free
+- ChatGPT — AI Platform — chat.openai.com — General AI assistance + research — Freemium
+- Claude — AI Platform — claude.ai — AI writing + brand voice development — Freemium
+- Shopify — E-commerce Platform — shopify.com — Online store hosting + management — $29-39/mo to start
+- Printify — Fulfillment — printify.com (integrates through Build My POD) — Print-on-demand fulfillment — Free + product costs
+- Klaviyo — Email Marketing — klaviyo.com — Email automation + flows + segmentation — Free up to 250 subscribers
+- Facebook Business Manager — Ads Platform — business.facebook.com/settings — Facebook Ads + Pixel + Catalog — Free (ad spend separate)
+- Meta Ads — Advertising — Access through business Facebook — Customer acquisition ads — Variable spend
+- Triple Whale — Analytics — triplewhale.com — Consolidated metrics dashboard — Paid
+- Etsy — Research — etsy.com — Design research + trend identification — Free to browse
+- Pinterest — Research — pinterest.com — Trend predictions and inspiration — Free
+- Domain Registration — Technical — Shopify or external (GoDaddy/Namecheap) — Domain purchase and DNS setup — $10-20/year
+- Professional Email — Technical — Gmail or custom domain email — Customer service email (support@brand.com) — Variable
+- Facebook & Instagram by Meta App — Shopify App — Shopify App Store — Meta Pixel and catalog integration — Free
+- Shopify Bulk Editor — Shopify Feature — Within Shopify → Products → Bulk Editor — Mass product editing — Included with Shopify
+- Shopify Flow — Shopify Feature — Within Shopify → Apps — Automation for abandoned carts — Included with Shopify
+- Google Drive — Storage — drive.google.com — File organization and storage — Free
+- WeScale Skool Community (Free) — Community — https://www.skool.com/heckman — Access to all GPTs + templates + support — Free (24k members) + Paid tier
+- WeScale Accelerator Community — Community — https://www.skool.com/wescale — Accelerate your POD brand — $199/mo
+- Desktop Folder Organization — Workflow — Local computer — Organize brand assets + bookmarks — Free

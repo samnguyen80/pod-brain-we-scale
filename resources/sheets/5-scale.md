@@ -1,0 +1,34 @@
+# 🚀 5) Scale
+
+Source: Copy of WeScale V3 Course Resources (Google Sheets) · 30 rows
+
+- 🚀 — Stage 5: Scale
+- 5.1 — Email Marketing
+- 12 — Time Estimate — Personal Notes
+- 0 — Optimize email flows based on performance data — 1 hour
+- 0 — Create monthly product drop campaigns — 2 hours/month
+- 0 — Set up review request automation — 30 min
+- 5.2 — Viral Ads
+- 0 — Test video ad creatives — 3 hours
+- 0 — Create lifestyle mockup variations — 2 hours
+- 0 — Run creative refresh tests monthly — ongoing
+- 5.3 — Scaling Your Ads
+- 0 — Track ROAS daily (target 2.5+) — ongoing
+- 0 — Scale winners by 20% every 3 days — ongoing
+- 0 — Create lookalike audiences after 50+ purchases — 1 hour
+- 0 — Test pricing variations ($27.99 vs $32.99 vs $37.99) — ongoing
+- 5.4 — Profit Is A Choice
+- 0 — Calculate true profit margins (revenue - all costs) — 1 hour
+- 0 — Optimize CPC (target under $0.75) — ongoing
+- 0 — Improve conversion rate (target 1%+) — ongoing
+- 0 — Adjust pricing to hit profit targets — ongoing
+- 5.5 — Your Scaling Roadmap
+- 0 — Launch 20-50 new designs weekly — 10-20 hours/month
+- 0 — Expand to new product types (hoodies, hats) — 5 hours
+- 0 — Test new traffic channels (Google) — ongoing
+- 0 — Hire virtual assistants for tasks / AI automations — ongoing
+- 5.6 — The Road Ahead
+- 0 — Set 30/60/90 day goals — 30 min
+- 0 — Build daily/weekly/monthly task systems — 1 hour
+- 0 — Plan seasonal campaigns (Q4, holidays) — 2 hours
+- 0 — Review and optimize quarterly — ongoing

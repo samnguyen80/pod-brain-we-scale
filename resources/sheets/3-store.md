@@ -1,0 +1,29 @@
+# 🛍️ 3) Store
+
+Source: Copy of WeScale V3 Course Resources (Google Sheets) · 25 rows
+
+- 🛍️ — Stage 3: Store
+- 3.1 — Launch Your Products
+- 12 — Time Estimate — Personal Notes
+- 0 — Upload first design to Printify — 30 min
+- 0 — Select 4-8 shirt colors that work with design (Gildan 64000) — 10 min
+- 0 — Set retail pricing (2.5-3x markup, aim for $10-15 profit) — 10 min
+- 0 — Publish to Shopify and verify it appears — 10 min
+- 0 — Duplicate and upload remaining 99 products — 15-20 hours
+- 0 — Use bulk editor to clean up and organize — 1 hour
+- 3.2 — Brand Your Store
+- 0 — Upload logo to store header — 10 min
+- 0 — Upload favicon — 5 min
+- 0 — Create or generate homepage hero banner — 30 min
+- 0 — Add trust badges (Free Shipping, Guaranteed, Secure, Fast) — 15 min
+- 0 — Set up navigation menu (Home, Shop, About, Contact) — 10 min
+- 0 — Edit About and Contact pages — 20 min
+- 0 — Customize colors and fonts to match brand — 20 min
+- 0 — Purchase and connect custom domain — 30 min
+- 3.3 — Business Setup
+- 0 — Activate Shopify Payments — 15 min
+- 0 — Connect bank account for payouts — 10 min
+- 0 — Set up shipping profile and rates ($4.99 standard, free over $75) — 10 min
+- 0 — Enable tax auto-calculation — 5 min
+- 0 — Configure checkout settings — 10 min
+- 0 — Create policy pages (refund, shipping, privacy, terms) — 30 min

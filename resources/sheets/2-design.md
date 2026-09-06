@@ -1,0 +1,45 @@
+# 👕 2) Design 
+
+Source: Copy of WeScale V3 Course Resources (Google Sheets) · 41 rows
+
+- 👕 — Stage 2: Design Creation & Research
+- 2.1 — Design Research
+- 12 — Time Estimate — Personal Notes
+- 0 — Search Etsy for '[niche] t-shirts' — 5 min
+- 0 — Filter by Star Seller and Etsy's Picks — 2 min
+- 0 — Screenshot 10-15 bestselling designs — 15 min
+- 0 — Look for patterns: text vs graphics, humor style, colors — 10 min
+- 0 — Note what's working (badges, reviews, pricing) — 10 min
+- 0 — Access Research GPT from School resources — 2 min
+- 0 — Upload your screenshots to Research GPT — 5 min
+- 0 — Review analysis: themes, demographics, design structure — 10 min
+- 0 — Get 10 design prompts from Research GPT — 5 min
+- 0 — Save research insights to Claude project — 5 min
+- 2.2 — Create Winning Designs
+- 0 — Access Design GPT from Skool resources — 2 min
+- 0 — Use research prompts to generate first design — 3 min
+- 0 — Review design (40-60% negative space, readable text, 1-3 colors) — 5 min
+- 0 — Request revisions if needed (max 1-2 rounds) — 5 min
+- 0 — Download design and save with descriptive filename — 2 min
+- 0 — Repeat process for designs 2-5 — 45 min
+- 0 — Clean up designs in Canva (remove backgrounds, resize) — 30 min
+- 0 — Quality check all 5 designs — 10 min
+- 2.3 — Scale To 100 Designs
+- 0 — Access Design Gem (Gemini) from Skool resources — 2 min
+- 0 — Generate designs in batches of 4-5 — varies
+- 0 — Work in 20-minute sprints with 5-minute breaks — varies
+- 0 — Create 80-100 raw designs total — 8-10 hours
+- 0 — Delete obvious losers (10-20% of designs) — 30 min
+- 0 — Rename files with descriptive names — 1 hour
+- 0 — Batch clean designs in Canva (10 per session) — 5-10 hours
+- 0 — Organize final 100 designs in folder — 30 min
+- 0 — Quality check: variety, readability, brand alignment — 1 hour
+- 2.4 — Create Mockups That Sell
+- 0 — Select your single best design (hero product) — 10 min
+- 0 — Access Mock-Up Gem from School resources — 2 min
+- 0 — Generate 3-5 mockup background concepts — 10-20 min
+- 0 — Download mockup backgrounds — 5 min
+- 0 — Create mockups in Canva (design on backgrounds) — 1 hour
+- 0 — Create 10 mockup variations (different backgrounds, angles) — 2-3 hours
+- 0 — Quality check: professional, variety, attention-grabbing — 15 min
+- 0 — Optional: Create mockups for top 5 designs — 1 hour
